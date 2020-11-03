@@ -21,5 +21,5 @@ You are allowed, of course, to use documentation sites, Google, stackoverflow.co
 
 [Interface complex 01](https://fran1409.github.io/end-of-field-challenge/index2.html)
 
-[Interface simple 04 (not pixel-perfect yet)](https://fran1409.github.io/end-of-field-challenge/index2.html)
+[Interface simple 04 (not pixel-perfect yet)](https://fran1409.github.io/end-of-field-challenge/index3.html)
 
