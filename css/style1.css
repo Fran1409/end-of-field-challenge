@@ -18,8 +18,15 @@
     font-size: 17px;
     margin-left: 7px;
 }
+.info {
+    margin-top: 30px;
+}
+
+.icons {
+    margin-top: 30px;
+}
 
 img {
     height: 20px;
-    padding: 2px;
+    padding-right: 17px;
 }
