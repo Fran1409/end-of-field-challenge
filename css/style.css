@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: #dddddd;
+}
+
+h2 {
+    color: #806464;
+}
+
+a:link, a:visited {
+    background-color: #d9adad;
+    color: #806464;
+    border: 2px solid #997878;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: #d9adadc2;
+    color: #806464;
+  }
