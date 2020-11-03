@@ -50,15 +50,35 @@
   footer {
       margin-top: 32px;
       margin-left: 20px;
-      font-size: 13px;
+      font-size: 10px;
   }
 
   .logo {
       height: 32px;
   }
 
-  button {
-      border-radius: 25px;
+  .text-footer {
+      margin-top: 0px;
   }
 
- 
+  button {
+      border-radius: 25px;
+      padding: 4px;
+      color: white;
+      font-size: 10px;
+  }
+
+ .blue {
+     background-color: #9DD1D5;
+     border-style: none;
+ }
+
+ .purple {
+     background-color: #8055EE;
+     border-style: none;
+ }
+
+ .red {
+     background-color: #FF4F4F;
+     border-style: none;
+ }
