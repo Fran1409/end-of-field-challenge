@@ -3,20 +3,6 @@
     padding: 0;
 }
 
-#mockup {
-    width: 332px;
-    height: 516px;
-    background-image: url(https://raw.githubusercontent.com/becodeorg/gnt-verou-1-26/master/1.The-Field/4.HTML-CSS/5.End-of-Field/2.End-of-Field-Challenge/images/normal-res/complex/complex.01.png?token=ARLOQAWK2VTEHSNQJVOVT5C7VJ3IG);
-    
-    position: absolute;
-    top: 0;
-    left: 0;
-    
-    opacity: 0.5;
-    z-index: 10;
-    pointer-events: none;
-  }
-
   body {
     font-family: 'M PLUS 1p', sans-serif;
     font-size: 14px;
@@ -48,17 +34,20 @@
   }
 
   footer {
+      width: 290px;
       margin-top: 32px;
       margin-left: 20px;
-      font-size: 10px;
+      font-size: 12px;
+      display: grid;
+      grid-template-columns: 38px 300px;
   }
 
   .logo {
       height: 32px;
   }
 
-  .text-footer {
-      margin-top: 0px;
+  .right-footer {
+    margin-top: 6px;
   }
 
   button {
