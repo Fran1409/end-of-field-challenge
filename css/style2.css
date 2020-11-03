@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 #mockup {
     width: 332px;
     height: 516px;
@@ -12,7 +17,48 @@
     pointer-events: none;
   }
 
-  img {
-      height: 210px;
-
+  body {
+    font-family: 'M PLUS 1p', sans-serif;
+    font-size: 14px;
   }
+
+  .box {
+    width: 290px;
+  }
+
+  h5{
+    margin-top: 12px;
+    margin-left: 25px;
+    font-size: 13px;
+  }
+
+  p {
+    margin-top: 16px;
+    margin-left: 25px;
+    font-size: 13px;
+  }
+
+  span {
+    float: right;
+    margin-right: 15px;
+  }
+
+  img {
+    height: 215px;
+  }
+
+  footer {
+      margin-top: 32px;
+      margin-left: 20px;
+      font-size: 13px;
+  }
+
+  .logo {
+      height: 32px;
+  }
+
+  button {
+      border-radius: 25px;
+  }
+
+ 
