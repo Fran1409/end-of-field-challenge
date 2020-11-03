@@ -29,4 +29,5 @@
 img {
     height: 20px;
     padding-right: 17px;
+    filter: invert(61%) sepia(2%) saturate(3176%) hue-rotate(139deg) brightness(90%) contrast(74%);
 }
