@@ -34,16 +34,16 @@
   }
 
   footer {
-      width: 290px;
-      margin-top: 32px;
-      margin-left: 20px;
-      font-size: 12px;
-      display: grid;
-      grid-template-columns: 38px 300px;
+    width: 290px;
+    margin-top: 32px;
+    margin-left: 20px;
+    font-size: 12px;
+    display: grid;
+    grid-template-columns: 38px 300px;
   }
 
   .logo {
-      height: 32px;
+    height: 32px;
   }
 
   .right-footer {
@@ -51,23 +51,21 @@
   }
 
   button {
-      border-radius: 25px;
-      padding: 4px;
-      color: white;
-      font-size: 10px;
+    border-radius: 25px;
+    border-style: none;
+    padding: 4px;
+    color: white;
+    font-size: 10px;
   }
 
  .blue {
-     background-color: #9DD1D5;
-     border-style: none;
+    background-color: #9DD1D5;
  }
 
  .purple {
      background-color: #8055EE;
-     border-style: none;
  }
 
  .red {
      background-color: #FF4F4F;
-     border-style: none;
  }
